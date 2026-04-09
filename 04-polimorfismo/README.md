@@ -19,8 +19,10 @@ Un mismo método produce comportamientos distintos dependiendo del tipo real del
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 El perro ladra.
 El gato maúlla.
+```
 
 ## Aprendizaje logrado
 Las dos variables son de tipo Animal, pero cada objeto responde según su

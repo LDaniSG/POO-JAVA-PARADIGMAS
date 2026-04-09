@@ -18,9 +18,11 @@ Diferencia entre una pertenencia flexible (agregaci√≥n) y una fuerte (composici√
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Equipo: Tigres
 - Luis
 - Pedro
+```
 
 ## Aprendizaje logrado
 Los jugadores se crean antes del equipo. Pertenecen al equipo pero no

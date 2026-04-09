@@ -18,11 +18,13 @@ de validación queda centralizada dentro de la misma clase.
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Titular: Laura
 Saldo inicial: 500000.0
 Depósito realizado correctamente.
 Retiro realizado correctamente.
 Saldo final: 540000.0
+```
 
 ## Aprendizaje logrado
 El saldo nunca se modifica directamente desde Main. Todo pasa por métodos

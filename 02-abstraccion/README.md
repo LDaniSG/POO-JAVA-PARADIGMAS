@@ -19,10 +19,12 @@ Modelar ideas generales primero y dejar los detalles concretos para las subclase
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Soy una figura geométrica.
 Área del círculo: 78.53981633974483
 Soy una figura geométrica.
 Área del rectángulo: 24.0
+```
 
 ## Aprendizaje logrado
 Figura define el concepto general sin imponer una fórmula. Cada subclase

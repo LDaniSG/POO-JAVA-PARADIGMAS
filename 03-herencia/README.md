@@ -19,6 +19,7 @@ Reutilizar código y establecer jerarquías entre tipos relacionados para evitar
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Nombre: María
 Salario: 4500000.0
 Área: Tecnología
@@ -26,6 +27,7 @@ Salario: 4500000.0
 Nombre: Carlos
 Salario: 3800000.0
 Lenguaje principal: Java
+```
 
 ## Aprendizaje logrado
 Las clases hijas no repiten nombre ni salario. La jerarquía reduce la

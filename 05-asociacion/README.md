@@ -18,8 +18,10 @@ Dos objetos se conectan para interactuar sin depender totalmente uno del otro.
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Curso: POO en Java
 Profesor: Andrés Gómez
+```
 
 ## Aprendizaje logrado
 El profesor puede existir sin ese curso y el curso podría cambiar de profesor.

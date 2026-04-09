@@ -19,10 +19,12 @@ desaparece, las partes también.
 3. Ejecutar con: `java Main`
 
 ## Salida esperada
+```
 Casa ubicada en: Calle 10 # 15-20
 - Sala
 - Cocina
 - Habitación principal
+```
 
 ## Aprendizaje logrado
 Las habitaciones nacen dentro de la clase Casa y no existen por fuera de ella.

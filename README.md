@@ -4,13 +4,13 @@ Repositorio académico para explicar los paradigmas más importantes de la
 Programación Orientada a Objetos en Java.
 
 ## Contenido
-- 01-encapsulacion
-- 02-abstraccion
-- 03-herencia
-- 04-polimorfismo
-- 05-asociacion
-- 06-agregacion
-- 07-composicion
+- 01-Encapsulación
+- 02-Abstraccioón
+- 03-Herencia
+- 04-Polimorfismo
+- 05-Asociación
+- 06-Agregación
+- 07-Composición
 
 ## Autor
 Laura Daniela Cepeda Gamba
